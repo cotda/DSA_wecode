@@ -1,6 +1,6 @@
 #include<iostream>
 #include<vector>
-
+huy ăn cút
 struct Node {
 	int data;
 	Node* pLeft;
